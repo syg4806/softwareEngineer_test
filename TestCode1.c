@@ -8,7 +8,6 @@ void main(){
 void test(){
 	//I wanna make test() like this by master
 }
-
 void test2(){
-	//I wanna make test2() like this by master
+	//I wanna make test() like this by otherComputer
 }
