@@ -4,5 +4,11 @@ void main(){
 	int a=3;
 	printf("%d",&a);
 	return;
-	//난 otherComputer라고해
+}
+void test(){
+	//I wanna make test() like this by otherComputer
+}
+
+void test2(){
+	//I wanna make test() like this by otherComputer
 }
