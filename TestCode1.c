@@ -4,5 +4,5 @@ void main(){
 	int a=3;
 	printf("%d",&a);
 	return;
-	//난 master라고해
+	//난 otherComputer라고해
 }
